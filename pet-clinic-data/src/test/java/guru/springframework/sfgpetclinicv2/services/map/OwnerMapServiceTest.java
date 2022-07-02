@@ -13,6 +13,8 @@ import static org.junit.jupiter.api.Assertions.assertNotNull;
 class OwnerMapServiceTest {
     OwnerService ownerService;
     final Long ownerId = 1L;
+    OwnerMapService ownerMapService;
+
     final String lastName = "Smith";
     @BeforeEach
     void setUp() {
@@ -65,4 +67,5 @@ class OwnerMapServiceTest {
         assertEquals(lastName, smith.getLastName());
         assertEquals(ownerId, smith.getId());
     }
+
 }
