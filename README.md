@@ -1,5 +1,4 @@
-[![CircleCI](https://dl.circleci.com/status-badge/img/gh/Ibrah-salama/sfg-pet-clinicv2/tree/main.svg?style=svg&circle-token=b0ebff7e8fa2c126da6a9c02a727eb1afaab8d7a)](https://dl.circleci.com/status-badge/redirect/gh/Ibrah-salama/sfg-pet-clinicv2/tree/main)
-
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/Ibrah-salama/springboot-petclinic-example/tree/main.svg?style=svg&circle-token=f12dca23a9965d42f8f5f60635ec98e0ff64d3c4)](https://dl.circleci.com/status-badge/redirect/gh/Ibrah-salama/springboot-petclinic-example/tree/main)
 # springboot-petclinic-example
 ## Overview  
 This is an ongoing project for a Pet Clinic Web Application built mainly with Spring Boot.
